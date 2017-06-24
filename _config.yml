@@ -116,11 +116,11 @@ disqus:
 #################################### global configure #######################################
 
 username: iWatching
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: Android
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: minixalpha
