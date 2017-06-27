@@ -106,7 +106,7 @@ disqus:
 
 username: iWatching
 baseurl: /blog
-markdown: redcarpet
+markdown: kramdown
 safe: false
 highlighter: pygments
 title: Android
