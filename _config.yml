@@ -111,7 +111,7 @@ safe: false
 highlighter: pygments
 title: Android
 description: 贵在坚持
-theme: modernist
+theme: kunka
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
