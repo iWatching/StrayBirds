@@ -2,6 +2,11 @@
 
 
 ######################### theme kunka condigure ##############################################
+# Where things are
+source:       .
+destination:  ./_site
+layouts:      ./_layouts
+paginate:     8
 
 
 # Handling Reading
